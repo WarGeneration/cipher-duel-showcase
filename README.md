@@ -126,6 +126,10 @@ The source code is in a private repository. This one shows how the project was b
 
 I'm happy to walk through the code, the git history and the agent sessions in a call, and to share an Android build.
 
+**See also:** [Eldvir](https://github.com/WarGeneration/eldvir-showcase), a text RPG where an LLM narrates and a
+deterministic engine rules: how the game uses the model, how models were chosen by evaluation runs, and how a second
+model (Codex) reviews the agent's work.
+
 ## License
 
 All rights reserved, see [LICENSE](LICENSE). The materials here are published for viewing only.
